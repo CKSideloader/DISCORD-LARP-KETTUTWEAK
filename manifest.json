@@ -1,0 +1,8 @@
+{
+  "name": "Larp UI Plugin",
+  "description": "Spoofs client-side badges and account creation dates.",
+  "author": "abortion",
+  "main": "index.js",
+  "version": "1.1.0",
+  "tags": ["utility"]
+}
